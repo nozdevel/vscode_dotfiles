@@ -1,6 +1,6 @@
 # vscode_dotfiles
 
-> [!IMPOTANT]
+> [!IMPORTANT]
 > Windows側にneovimをインストールしておくこと
 > 2025/06/28のstable release
 > https://github.com/neovim/neovim/releases/latest/download/nvim-win64.msi
