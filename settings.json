@@ -1,5 +1,20 @@
 {
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
-    }
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.editor.wrapTabs",
+        "workbench.tree.indent",
+        "workbench.tree.renderIndentGuides",
+        "workbench.colorCustomizations",
+        "exploerer.compactFolders",
+    ],
+
+    "workbench.editor.wrapTabs": true,
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#ece93a",
+    },
+    "exploerer.compactFolders": false,
 }
